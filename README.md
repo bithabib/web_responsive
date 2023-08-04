@@ -1,1 +1,1 @@
-# web_responsive
+# Odoo Web Responsive Odoo Version 15
